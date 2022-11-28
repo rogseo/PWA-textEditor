@@ -69,7 +69,7 @@ THEN I should have proper build scripts for a webpack application
 
 
 ## Heroku
-[Deployed Link](https://watch.screencastify.com/v/0qKdUVK707cYUYllqccY)
+[Deployed Link](https://fast-atoll-62823.herokuapp.com/)
 
 
 ## Questions
