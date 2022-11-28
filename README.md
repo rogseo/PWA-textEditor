@@ -4,6 +4,8 @@
 
 A text editor that can create notes or code snippets with or without an internet connection.
 
+![mock-up](./Assets/J-A-T-E.png)
+
 ## Table of Contents
 - [Technology](#technology)
 - [Installation](#installation)
@@ -67,7 +69,7 @@ THEN I should have proper build scripts for a webpack application
 
 
 ## Heroku
-[ViewDemoVideo](https://watch.screencastify.com/v/0qKdUVK707cYUYllqccY)
+[Deployed Link](https://watch.screencastify.com/v/0qKdUVK707cYUYllqccY)
 
 
 ## Questions
